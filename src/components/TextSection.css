@@ -1,0 +1,25 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+
+.text {
+position: relative;
+display: grid;
+gap: 10px;
+text-align: center;
+margin: 0 auto;
+padding: 50px 20px 50px;
+}
+
+.text h1 {
+color: white;
+font-weight: bold;
+font-size: 60px;
+}
+
+.text p {
+color: white;
+font-weight: normal;
+font-size: 25px;
+}

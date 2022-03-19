@@ -1,0 +1,20 @@
+::-webkit-scrollbar{width:10px}
+
+::-webkit-scrollbar-track{background:#ffffff;border-radius:2px}
+
+::-webkit-scrollbar-thumb{background:#c4f5fc;border-radius:2px}
+
+.App {
+text-align: center;
+}
+
+.canvas {
+position: absolute;
+top: 50px;
+}
+
+.canvaswhale {
+position: absolute;
+background-color: #0e1c4c;
+top: -300px
+}
