@@ -17,6 +17,14 @@ gltfjsx - Transforma glTF em arquivo JSX
 <br>
 ##
 <br>
+**Autoavaliação:**
+<br>
+Estética: 3/5
+<br>
+Tecnologia: 3/5
+<br>
+Responsividade: 2/5
+<br>
 <div>
   <h4>Prints</h4>
   <img height="200cm" src="https://media.discordapp.net/attachments/648354650294059038/954781801925193768/Screenshot_2.png?width=1426&height=670" alt="Print">
