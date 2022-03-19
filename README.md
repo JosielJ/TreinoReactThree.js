@@ -17,7 +17,7 @@ gltfjsx - Transforma glTF em arquivo JSX
 <br>
 ##
 <br>
-**Autoavaliação:**
+<b>Autoavaliação:</b>
 <br>
 Estética: 3/5
 <br>
